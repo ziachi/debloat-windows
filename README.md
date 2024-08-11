@@ -1,0 +1,2 @@
+# debloat-windows
+powershell script
