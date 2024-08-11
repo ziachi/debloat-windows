@@ -1,0 +1,5 @@
+Get-AppxPackage *Microsoft.GetHelp* -AllUsers | Remove-AppxPackage
+Get-AppxPackage *Microsoft.WindowsMaps* -AllUsers | Remove-AppxPackage
+Get-AppxPackage *Microsoft.People* -AllUsers | Remove-AppxPackage
+Get-AppxPackage *XboxGameOverlay* -AllUsers | Remove-AppxPackage
+Get-AppxPackage Microsoft.YourPhone -AllUsers | Remove-AppxPackage
